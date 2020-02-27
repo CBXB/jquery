@@ -1,0 +1,31 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 80%;
+  height: 75%;
+  border: 1px solid black;
+  border-radius: 35px;
+  padding: 50px;
+  background-color: teal;
+}
+header {
+  width:100%;
+  text-align: center;
+}
+
+section {
+  border: 1px solid black;
+  border-radius: 35px;
+  padding:50px;
+  background-color: white;
+  display: inline-block;
+}
+
+ul {
+  text-align: left;
+}
